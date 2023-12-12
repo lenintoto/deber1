@@ -251,5 +251,6 @@ public class vivienda {
         loft casa1 = new loft("Ibarra", 5, "loft y apartamento", 48.7, 3, "Nuevo", 74999,
                 "Personal", "Privado", 6, 150, true, 5.3, 12);
         casa1.mostrarInfo();
+        System.out.println("Ya esta xd");
     }
 }
